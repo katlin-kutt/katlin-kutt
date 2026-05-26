@@ -11,7 +11,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
  
 - **Andmebaasid:** PostgreSQL, Supabase
-- **Programmeerimiskeeled:** Python (pandas, plotly)
+- **Programmeerimiskeeled:** Python (Pandas, Plotly)
 - **Visualiseerimine:** Power BI, Streamlit
 - **Versioonihaldus:** Git, GitHub
  
