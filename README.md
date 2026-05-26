@@ -22,7 +22,7 @@
 ## 📫 Kontakt
  
 - **Email:** 25katlin@gmail.com
-- **LinkedIn:**
+- **LinkedIn:** loomisel
  
 _"Data is the new oil, but analytics is the combustion engine." – Peter Sondergaard_
 
